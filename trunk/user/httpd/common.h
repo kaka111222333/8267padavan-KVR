@@ -93,7 +93,7 @@ typedef u_int8_t u8;
 //#define EVM_RESTART_VLMCSD			(1ULL << 44) //微软服务
 //#define EVM_RESTART_ALIST			(1ULL << 44) //alist文件列表【新删除】
 #define EVM_RESTART_ALIDDNS			(1ULL << 45) //阿里ddns
-#define EVM_RESTART_SMARTDNS	    		(1ULL << 46) //smartdns加速
+//#define EVM_RESTART_SMARTDNS	    		(1ULL << 46) //smartdns加速【删除】
 //#define EVM_RESTART_FRP	    		(1ULL << 47) //frp内网穿透【删除】
 //#define EVM_RESTART_DNSFORWARDER		(1ULL << 47) //dns转发
 #define EVM_RESTART_SHADOWSOCKS		(1ULL << 48) //科学上网ss【新增】
